@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jayjaisswal.github.io/react-tour-basic-project/static/css/main.7f59b1f9.css",
+    "main.js": "/jayjaisswal.github.io/react-tour-basic-project/static/js/main.c6bc2af4.js",
+    "index.html": "/jayjaisswal.github.io/react-tour-basic-project/index.html",
+    "main.7f59b1f9.css.map": "/jayjaisswal.github.io/react-tour-basic-project/static/css/main.7f59b1f9.css.map",
+    "main.c6bc2af4.js.map": "/jayjaisswal.github.io/react-tour-basic-project/static/js/main.c6bc2af4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f59b1f9.css",
+    "static/js/main.c6bc2af4.js"
+  ]
+}
